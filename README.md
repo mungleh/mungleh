@@ -35,6 +35,9 @@ I am currently a data manager assistant.
 ![Snowflake](https://img.shields.io/static/v1?style=for-the-badge&message=Snowflake&color=222222&logo=Snowflake&logoColor=29B5E8&label=)
 ![Supabase](https://img.shields.io/static/v1?style=for-the-badge&message=Supabase&color=222222&logo=Supabase&logoColor=3FCF8E&label=)
 
+![dbt](https://img.shields.io/static/v1?style=for-the-badge&message=dbt&color=FF694B&logo=dbt&logoColor=FFFFFF&label=)
+![Sqitch](https://img.shields.io/static/v1?style=for-the-badge&message=Sqitch&color=FF694B&logo=Sqitch&logoColor=FFFFFF&label=)
+
 ### ETL/ELT
 
 ![Airbyte](https://img.shields.io/static/v1?style=for-the-badge&message=Airbyte&color=615EFF&logo=Airbyte&logoColor=FFFFFF&label=)
